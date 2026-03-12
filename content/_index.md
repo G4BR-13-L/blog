@@ -1,17 +1,10 @@
 ---
-title: My Site
-toc: false
+title: Blog
 ---
 
-This is the landing page.
+## 2026 - March
 
-## Explore
+- [O crime do return null](2026/03/10/)
+- [O crime do return null](2026/03/11/)
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+[Arquivo completo →](/archives/)
